@@ -2,7 +2,7 @@
     "name": "ulisses-gabriel/laravel-webartisan",
     "description": "Web artisan allows to run artisan console commands using a browser",
     "keywords": ["webartisan", "artisan", "laravel", "php"],
-    "homepage": "https://github.com/emir/laravel-webartisan",
+    "homepage": "https://github.com/ulisses-gabriel/laravel-webartisan",
     "license": "MIT",
     "authors": [
         {
